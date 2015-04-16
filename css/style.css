@@ -85,7 +85,9 @@ a {
     font-family: "Lato";
     font-size: 1.5em;
     color: #d1d8de;
-    text-align: justify;
+    text-align: left;
+	padding-bottom: 10px;
+	padding-top: 20px;
 }
 
 ul {
@@ -136,3 +138,5 @@ h3 {
     height: 1px;
     width: 1px;
 }
+
+
